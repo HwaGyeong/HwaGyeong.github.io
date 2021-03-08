@@ -39,9 +39,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "dlghkrud18@naver.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: 
+  github: "https://github.com/HwaGyeong"
+  twitter: 
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname

@@ -13,7 +13,7 @@ author: HwaGyeong
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "코딩맛집"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -227,3 +227,11 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+
+navbar-links:
+  Category:
+    - TroubleShooting: "/category/troubleshooting"
+    - Study: "/category/study"

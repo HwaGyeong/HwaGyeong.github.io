@@ -16,7 +16,7 @@ navbar-links:
   About Me: "aboutme"
   Category:
     - TroubleShooting: "/category/troubleshooting"
-    - Algorithm: "/category/algorithm"
+    - algorithm: "/category/algorithm"
   
 
 # --- Logo --- #

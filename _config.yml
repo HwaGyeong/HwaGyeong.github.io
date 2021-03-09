@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: coding tasty house
+title: Coding Tasty House
 
 # Your name to show in the footer
 author: HwaGyeong
@@ -14,9 +14,9 @@ author: HwaGyeong
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Category:
+    - TroubleShooting: "/category/troubleshooting"
+    - Algorithm: "/category/algorithm"
   
 
 # --- Logo --- #
@@ -39,15 +39,15 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "dlghkrud18@naver.com"
-  facebook: 
-  github: "https://github.com/HwaGyeong"
-  twitter: 
+  facebook: ""
+  github: "https://github.com/HwaGyeong/hwagyeong.github.io.git"
+  instagram: "hwa_k99"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-   instagram: hwa_k99
+   
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -230,8 +230,3 @@ plugins:
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-
-navbar-links:
-  Category:
-    - TroubleShooting: "/category/troubleshooting"
-    - Study: "/category/study"

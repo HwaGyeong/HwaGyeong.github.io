@@ -1,9 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: hardhard
+subtitle: Cooooooooooooding
 ---
-
-## This is Coding Tasty House~~~
 ## 코딩 연습장><
 

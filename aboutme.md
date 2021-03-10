@@ -3,5 +3,6 @@ layout: page
 title: About me
 subtitle: Cooooooooooooding
 ---
-## 코딩 연습장><
+## 1. 코딩 연습장
+## 2. 웹공부 
 

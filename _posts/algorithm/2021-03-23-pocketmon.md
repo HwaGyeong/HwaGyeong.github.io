@@ -27,7 +27,6 @@ comments: true
 #include <stdio.h>
 #include <iostream>
 #include <vector>
-#include <math.h>
 #include <string>
 #include <utility>
 #include <algorithm>
@@ -89,6 +88,6 @@ int main()
 }
 ```
 > 고찰   
-    
+
 시간제한이 걸리는 문제여서 단순히 for반복문으로 돌면 시간이 초과된다.
 따라서 이름이 들어왔을 때 그 숫자를 찾을 때는 이분 탐색알고리즘을 이용해서 찾아주어야 한다. 

@@ -17,7 +17,7 @@ author: HwaGyeong
 navbar-links:
   About Me: "aboutme"
   Category:
-    - TroubleShooting: "/category/troubleshooting"
+    - Cloud: "/category/cloud"
     - Algorithm: "/category/algorithm"
     - Web: "/category/web"
   

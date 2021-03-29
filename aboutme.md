@@ -3,6 +3,6 @@ layout: page
 title: About me
 subtitle: Cooooooooooooding
 ---
-## 1. 코딩 연습장
-## 2. 웹공부 
+## 1. 알고리즘 공부
+## 2. 웹 공부 
 

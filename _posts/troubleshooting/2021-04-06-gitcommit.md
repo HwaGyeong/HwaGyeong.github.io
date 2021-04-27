@@ -5,7 +5,7 @@ subtitle: Git에 개인정보가 올라갔을 때
 categories:
   - troubleshooting
 tags:
-  - [web, git]
+  - [git]
 comments: true
 ---
 

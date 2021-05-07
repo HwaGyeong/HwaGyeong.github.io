@@ -25,7 +25,8 @@ comments: true
 5. bfs함수에서는 4방향 다 방문해보고 gap이 L과 R사이에 있는 경우 방문하고 인구수를 구하고 방문 표시를 한다.
 6. bfs함수를 돌고 난 뒤 총 나라가 2개이상이면 연합이 결성되었다는 의미로 인구 재분배를 해준다.
 7. 연합이 결성되면 결과를 1 증가시키기 위해서 checker를 true해준다.
-8. 각 점을 다 돌고 나오면 checker여부를 확인해서 결과값을 증가 시키고 연합이 결성되지 않았으면 프로그램이 종료된다.
+8. 각 점을 다 돌고 나오면 checker여부를 확인해서 결과값을 증가 시키고 연합이 결성되지 않았으면 프로그램이 종료된다.   
+
 ***
    
    
@@ -65,7 +66,6 @@ void bfs(int x, int y)
 			if (nx >= 0 && ny >= 0 && nx < N && ny < N)//범위내에 해당하는 부분이면 
 			{
 				int gap = abs(graph[nx][ny] - graph[x_cur][y_cur]);
-				if (gap > 100) continue;
 				if (gap >= L && gap <= R && visited[nx][ny] == 0)
 				{
 					location.push_back({ nx,ny });//위치값 저장

@@ -2,5 +2,5 @@ User-agent: *
 Allow: /
 
 Disallow: /private/
-Sitemap: http://hwagyeong.github.io/sitemap.xml
+Sitemap: https://hwagyeong.github.io/sitemap.xml
     
